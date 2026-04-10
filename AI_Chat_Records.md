@@ -8,3 +8,6 @@ https://chatgpt.com/share/69d90c44-7908-8324-be0b-c807e18aed03
 TASK2 gpt格式调整
 https://gemini.google.com/share/64ca1b7e6108
 TASK2 gemini主要创作
+
+https://gemini.google.com/share/f9da1e2a8ca3
+TASK3
