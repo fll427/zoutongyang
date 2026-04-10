@@ -4,7 +4,9 @@
 TASK1 and TASK2核心代码运行方式均为python，TASK3仅含一份markdown文档，可以用typora打开
 
 主要提交物位置：
-TASK1：
-TASK2：
-TASK3：
-简要说明仓库结构、三个任务分别放在哪个目录、核心运行方法和主要提交物位置，方便统一验收。
+
+TASK1：TASK1/extract_medical_entities.py
+
+TASK2：TASK2/LaTeX_论文撰写.pdf  TASK2/LaTeX 小型英文论文/main.tex
+
+TASK3：TASK3/经验沉淀与新人避坑指南.md
